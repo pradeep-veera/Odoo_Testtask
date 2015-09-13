@@ -1,0 +1,14 @@
+<openerp>
+    <data>
+        <template id="index">
+            <t t-call="website.layout">
+                <t t-set="title">Academy</t>
+                <div class="oe_structure">
+                    <div class="container">
+                          <t t-esc="name"/>
+                    </div>
+                </div>
+             </t>
+        </template>
+    </data>
+</openerp>
