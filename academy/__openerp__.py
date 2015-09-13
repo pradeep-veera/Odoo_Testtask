@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+*- coding: utf-8 -*-
 {
     'name': "Academy",
 
@@ -31,3 +31,4 @@
     'demo': [
         'demo.xml',
     ],
+}
